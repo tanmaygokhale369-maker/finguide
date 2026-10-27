@@ -1,0 +1,2 @@
+# Optional CPU inference dependencies for the local FinBERT news-tone feature.
+transformers[torch]>=4.57,<5
